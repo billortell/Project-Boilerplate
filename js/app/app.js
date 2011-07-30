@@ -1,3 +1,12 @@
+/**
+ * app.js
+ *
+ * Barebones framework for organizing your code.
+ *
+ * @author Jamie Lottering (http://github.com/jamielottering)
+ * @version 0.0.1
+ *
+ */
 (function ( $, window, document, undefined ) {
 
   var app, _config;
